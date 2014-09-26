@@ -1,0 +1,14 @@
+Kevin@kali:~/Desktop/Tweek$ ./next.sh
+Error in if (minAICC == stats[[name]][["N3"]][["AICC"]]) { : 
+  missing value where TRUE/FALSE needed
+Calls: doEverything
+Execution halted
+Error in if (minAICC == stats[[name]][["N3"]][["AICC"]]) { : 
+  missing value where TRUE/FALSE needed
+Calls: doEverything
+Execution halted
+Error in if (minAICC == stats[[name]][["N3"]][["AICC"]]) { : 
+  missing value where TRUE/FALSE needed
+Calls: doEverything
+Execution halted
+
